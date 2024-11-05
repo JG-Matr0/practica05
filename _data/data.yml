@@ -8,23 +8,23 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Jesús García
     tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: https://avatars.githubusercontent.com/u/182068132?v=4  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-    citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    xing: alandoe
-    github: jekyll
+    email: jesgarcas@alu.edu.gva.es
+    phone: 612 65 87 83
+    timezone: España/Madrid # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    citizenship: Castellon la Plana
+    website: https://sukabliat.com/ # Include the full website URL, including "http://" or "https://".
+    linkedin:
+    xing: 
+    github: JG_Matr0
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@jekyllrb'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -36,22 +36,22 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Spanish
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: English
+          level: Noob
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Danish
+          level: Not level
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: IT
           link:
 
-        - item: Snowboarding
+        - item: Gaming
           link:
 
         - item: Cooking
