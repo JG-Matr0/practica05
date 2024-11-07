@@ -10,10 +10,10 @@ sidebar:
     # Profile information
     name: Jesús García
     tagline: future employer
-    avatar: https://avatars.githubusercontent.com/u/182068132?v=4  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: karlist.jpeg "image" #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: jesgarcas@alu.edu.gva.esMSc in Computer Science
+    email: jesgarcas@alu.edu.gva.es
     phone: 612 65 87 83
     timezone: España/Madrid # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: Castellon la Plana
