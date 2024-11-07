@@ -13,14 +13,14 @@ sidebar:
     avatar: https://avatars.githubusercontent.com/u/182068132?v=4  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: jesgarcas@alu.edu.gva.es
+    email: jesgarcas@alu.edu.gva.esMSc in Computer Science
     phone: 612 65 87 83
     timezone: España/Madrid # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: Castellon la Plana
     website: https://sukabliat.com/ # Include the full website URL, including "http://" or "https://".
     linkedin:
     xing: 
-    github: JG_Matr0
+    github: JG_Matr0 "https://github.com/JG-Matr0"
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -67,11 +67,11 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    title: Education
+    title: Formation module
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Mid Grade of IT
+        university: ies Benigaslo
+        time: 2019 - 2021
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -80,9 +80,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Superior Grade of IT
+        university: ies Benigaslo
+        time: 2021 - 2023
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
